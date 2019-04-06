@@ -8,6 +8,7 @@ public class GameLuncherTest {
 		
 		Game game = new Game();
 		game.startGame();
+
 	}
 
 }
