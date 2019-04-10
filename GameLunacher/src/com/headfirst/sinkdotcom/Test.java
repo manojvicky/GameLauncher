@@ -1,0 +1,10 @@
+package com.headfirst.sinkdotcom;
+
+public class Test {
+
+	public static void main(String[] args) {
+		SinkDotCom skc = new SinkDotCom();
+		skc.start();
+	}
+
+}
