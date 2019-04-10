@@ -36,12 +36,12 @@ public class SinkDotCom {
 			Scanner guess = new Scanner(System.in); 
 			int userGuess = guess.nextInt();
 			String value = sinkArr[userGuess];
-			System.out.println("value "+ value);
 			if(value==dotCom) {
 				noOfChances-=1;
 				hitCount-=1;
 				if(hitCount==0) {
 					System.out.println("Kill");
+					System.out.println("Perfect");
 					break;
 				}else {
 					System.out.println("Hit");
@@ -49,6 +49,7 @@ public class SinkDotCom {
 			}else {
 				noOfChances-=1;
 				System.out.println("Miss");
+				System.out.println("Keep it up!");
 			}
 //			guess.close();
 		}
