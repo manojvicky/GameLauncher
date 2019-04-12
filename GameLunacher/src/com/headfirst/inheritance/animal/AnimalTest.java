@@ -1,5 +1,6 @@
 package com.headfirst.inheritance.animal;
 
+import com.headfirst.inheritance.food.Chicken;
 import com.headfirst.inheritance.food.Food;
 
 public class AnimalTest {
@@ -10,7 +11,7 @@ public class AnimalTest {
 		Hippo h = new Hippo(true, false);
 		Food roti = new Food(true);
 		Food bread = new Food(true);
-		Food chicken = new Food(false);
+		Food chicken = new Chicken(false);
 		Food mutton = new Food(false);
 		d.feed(roti);
 		d.speak();
