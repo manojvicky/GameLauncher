@@ -1,6 +1,3 @@
 # GameLauncher
 
-Just a small word ‘Thank You’ isn’t worthy enough to be grateful for all the endless jovial experiences I have shared with you all over the past 2 years. But, woefully I am out of words..:p
-
-So, A Big Thank You for being the best of mates and mentors I could have ever asked for.:)
-Hasta La Vista
+I prefer to think of this as “See you later” instead of “Goodbye.” So, please don’t hesitate to reach out to me at [personal email address] if you’d ever like to get in touch.
